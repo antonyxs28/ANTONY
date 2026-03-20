@@ -1,18 +1,29 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Olá, eu sou o Tony
 
-###
+💻 Desenvolvedor focado em JavaScript Full Stack
+🚀 Em constante evolução, construindo projetos e aprimorando minhas habilidades
+📍 Brasil
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonyxs28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🧠 Sobre mim
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZna2t1bXVuMzgzeWU3anVzMzN0anBnODJiNHJhcGM1am9ybW12dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CkGTumD6S5hhCRyuK/giphy.gif)"  />
+Sou um desenvolvedor em formação, dedicado a aprender e aplicar na prática as principais tecnologias do ecossistema JavaScript.
 
-###
+Tenho foco em escrever código limpo, entender bem os fundamentos e evoluir de forma consistente todos os dias.
 
+---
+
+## 🚀 Atualmente
+
+* 📚 Estudando desenvolvimento Full Stack
+* ⚛️ Criando aplicações com React e TypeScript
+* 🌐 Explorando desenvolvimento backend com Node.js
+* 🧩 Praticando com projetos reais para fortalecer o portfólio
+
+---
+
+## 🛠️ Tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -24,20 +35,30 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 📊 GitHub Stats
+![Tony GitHub stats](https://github-readme-stats.vercel.app/api?username=antonyxs28&show_icons=true&theme=tokyonight)
+---
 
-###
+## 🎯 Objetivo
 
-<br clear="both">
+Me tornar um desenvolvedor full stack sólido, capaz de construir aplicações completas, escaláveis e bem estruturadas.
 
-<img src="https://raw.githubusercontent.com/antonyxs28/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 📫 Contato
+
+* GitHub: https://github.com/antonyxs28
+
+---
+
+<img src="https://raw.githubusercontent.com/maurodesouza/antonyxs28/output/snake.svg" alt="Snake animation" />
+
+## ⚡
+
+> "Evolução constante através da prática."
