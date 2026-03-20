@@ -31,7 +31,7 @@ Atualmente estou focado em me tornar um desenvolvedor Full Stack, estudando e cr
 
 ## 📊 GitHub Stats
 
-![Tony GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![Tony GitHub stats](https://github-readme-stats.vercel.app/api?username=antonyxs28&show_icons=true&theme=tokyonight)
 
 ---
 
