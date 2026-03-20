@@ -1,20 +1,61 @@
-<h1 align="center">Hi 👋, I'm Antony</h1>
-<h3 align="center">Construindo todos os dias até dar certo.</h3>
+# 👋 Olá, eu sou o Tony
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonyxs28&label=Profile%20views&color=0e75b6&style=flat" alt="antonyxs28" /> </p>
+💻 Desenvolvedor focado em JavaScript Full Stack
+🚀 Em constante evolução, construindo projetos e aprimorando minhas habilidades
+📍 Brasil
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonyxs28" alt="antonyxs28" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/euantonysts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="euantonysts" height="30" width="40" /></a>
-</p>
+## 🧠 Sobre mim
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Sou um desenvolvedor em formação, dedicado a aprender e aplicar na prática as principais tecnologias do ecossistema JavaScript.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyxs28&show_icons=true&locale=en&layout=compact" alt="antonyxs28" /></p>
+Tenho foco em escrever código limpo, entender bem os fundamentos e evoluir de forma consistente todos os dias.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonyxs28&show_icons=true&locale=en" alt="antonyxs28" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonyxs28&" alt="antonyxs28" /></p>
+## 🚀 Atualmente
+
+* 📚 Estudando desenvolvimento Full Stack
+* ⚛️ Criando aplicações com React e TypeScript
+* 🌐 Explorando desenvolvimento backend com Node.js
+* 🧩 Praticando com projetos reais para fortalecer o portfólio
+
+---
+
+## 🛠️ Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="TypeScript" height="30" src="https://skillicons.dev/icons?i=ts">
+  <img align="center" alt="React" height="30" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="Node.js" height="30" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="HTML" height="30" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="CSS" height="30" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Git" height="30" src="https://skillicons.dev/icons?i=git">
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=antonyxs28\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🎯 Objetivo
+
+Me tornar um desenvolvedor full stack sólido, capaz de construir aplicações completas, escaláveis e bem estruturadas.
+
+---
+
+## 📫 Contato
+
+* GitHub: https://github.com/antonyxs28
+* Instagram: https://instagram.com/euantonysts
+
+---
+
+## ⚡
+
+> "Evolução constante através da prática."
